@@ -15,7 +15,7 @@ A simple responsive todo application built using React and styled with Tailwind 
 - Tailwind CSS
 
 ![Demo](Todo_latest.png)
-![Demo](Todo-responsive.png)
+
 
 ## Installation
 
